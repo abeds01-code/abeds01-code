@@ -115,48 +115,48 @@ I'm continuing to develop my knowledge in:
 <tr>
 <td width="50%" valign="top">
 
-### AI Agent & Automation
+### 🎫 Help Desk — Ticket Management System
 
-**n8n · AI Agents · Webhooks**
+**React · TypeScript · Express · MongoDB**
 
-Automation workflows integrating AI agents and external services.
+A full-stack support ticket management application featuring an admin dashboard, authentication, ticket tracking, and database integration.
 
-[View Repository →](https://github.com/abeds01-code/Ai-N8N-Final)
+[Explore Project →](https://github.com/abeds01-code/Help-Desk-Final)
 
 </td>
 <td width="50%" valign="top">
 
-### React Application
+### 🤖 AI Agent & Automation
 
-**React · JavaScript**
+**n8n · AI Agents · Webhooks**
 
-A frontend development project focused on building interactive web interfaces.
+Automation workflows connecting AI agents with external services to simplify everyday tasks.
 
-[View Repository →](https://github.com/abeds01-code/FinalReact)
+[Explore Project →](https://github.com/abeds01-code/Ai-N8N-Final)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Node.js Backend
+### ⚙️ Node.js Backend
 
-**Node.js · Express**
+**Node.js · Express · MongoDB**
 
-A backend development project exploring server-side programming and API functionality.
+A backend development project exploring REST APIs, server-side programming, and database integration.
 
-[View Repository →](https://github.com/abeds01-code/FinalNode)
+[Explore Project →](https://github.com/abeds01-code/FinalNode)
 
 </td>
 <td width="50%" valign="top">
 
-### More Projects
+### ⚛️ React Application
 
-**Software Development · Learning**
+**React · JavaScript**
 
-Explore additional projects, coursework, and technical experiments.
+A frontend application focused on interactive interfaces, component-based development, and API integration.
 
-[Explore Repositories →](https://github.com/abeds01-code?tab=repositories)
+[Explore Project →](https://github.com/abeds01-code/FinalReact)
 
 </td>
 </tr>
