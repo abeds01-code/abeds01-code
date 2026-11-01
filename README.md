@@ -136,6 +136,12 @@ LEARN   →   BUILD   →   LAUNCH
 
 <div align="center">
 
+<br>
+
+---
+
+<div align="center">
+
 <h2>07 / 🌐 Connect With Me</h2>
 
 <p>
@@ -147,20 +153,20 @@ LEARN   →   BUILD   →   LAUNCH
 
 <a href="mailto:abed.s.01@icloud.com">
   <img
-    src="https://img.shields.io/badge/GET_IN_TOUCH-0D9488?style=for-the-badge&logo=maildotru&logoColor=white"
-    alt="Contact Me"
+    src="https://img.icons8.com/fluency/96/new-post.png"
+    width="58"
+    height="58"
+    alt="Email Me"
   />
 </a>
 
-<br><br>
+<br>
 
-<a href="mailto:abed.s.01@icloud.com">
-  <strong>abed.s.01@icloud.com</strong>
-</a>
+<sub>Click the icon to get in touch</sub>
 
 <br><br>
 
-<sub>Open to opportunities · Collaboration · Innovation</sub>
+<sub>Open to Opportunities · Collaboration · Innovation</sub>
 
 </div>
 
