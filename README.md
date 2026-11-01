@@ -1,202 +1,135 @@
+Library
+/
+README.md
+
+
+
 <div align="center">
 
-# Abed Sultan
-
-### Practical Software Engineering Student
-
-**Ariel University · Israel**
-
-`Software Development` · `Systems & Networks` · `AI Automation`
+<img src="./assets/hero.svg" alt="Abed Sultan — Practical Software Engineering Student" width="100%" />
 
 <br>
 
-**Building skills today. Creating solutions tomorrow.**
+Engineering ideas into useful software.
+I'm a Practical Software Engineering student at Ariel University, interested in building reliable applications, understanding how systems work, and exploring intelligent automation.
 
-I'm a software engineering student passionate about technology, problem-solving, and turning ideas into practical software.
-
-My long-term ambition is to build and launch my own technology venture.
+My long-term goal is to turn practical ideas into a technology product of my own.
 
 <br>
 
-<a href="https://github.com/abeds01-code?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects">
-</a>
+<a href="https://github.com/abeds01-code?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-5BD6D0?style=for-the-badge&logo=github&logoColor=09111F" alt="Explore projects" /></a>
+ 
+<a href="https://github.com/abeds01-code"><img src="https://img.shields.io/badge/GITHUB_PROFILE-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 
 </div>
 
 <br>
 
----
+01 / Selected Work
+Projects where I apply what I learn — from full-stack applications to workflow automation.
 
-## 01 / About Me
+<table> <tr> <td width="50%" valign="top">
 
-I'm currently completing my studies in **Practical Software Engineering at Ariel University**.
+01 — Help Desk
+Full-stack ticket management
 
-My academic background covers programming, databases, computer networks, operating systems, information security, and systems analysis.
+A support-ticket application with an admin dashboard, ticket tracking, authentication, and database integration.
 
-Alongside my studies, I enjoy building applications, experimenting with automation, and exploring how technology can solve real-world problems.
+React TypeScript Express MongoDB
 
-**What drives me?**
+View project ↗
 
-* Developing practical software solutions.
-* Understanding how systems work beyond the user interface.
-* Exploring AI agents and intelligent automation.
-* Continuously improving my technical and problem-solving abilities.
-* Working toward becoming a technology entrepreneur.
+</td> <td width="50%" valign="top">
 
-<br>
+02 — AI Agent & Automation
+Connected workflows
 
-## 02 / Technical Toolkit
+Experiments with AI agents, webhooks, and integrations that automate practical tasks.
 
-### Programming Languages
+n8n AI Agents Webhooks
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,cs&theme=dark" alt="Programming languages">
-</p>
+View project ↗
 
-### Frontend & Backend
+</td> </tr> <tr> <td width="50%" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark" alt="Web development technologies">
-</p>
+03 — Node.js Backend
+Server-side development
 
-### Databases
+Backend coursework exploring APIs, request handling, and database-connected services.
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases">
-</p>
+Node.js Express MongoDB
 
-### Tools & Development Environment
+View project ↗
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,linux&theme=dark" alt="Development tools">
-</p>
+</td> <td width="50%" valign="top">
 
-### AI & Automation
+04 — React Application
+Interactive web interfaces
 
-<p>
-<img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
-<img src="https://img.shields.io/badge/AI-Agents-2563EB?style=flat-square" alt="AI Agents">
-<img src="https://img.shields.io/badge/API-Integrations-334155?style=flat-square" alt="API Integrations">
-<img src="https://img.shields.io/badge/Webhooks-Automation-334155?style=flat-square" alt="Webhooks">
-</p>
+Frontend coursework using reusable components and application-level interactions.
+
+React JavaScript
+
+View project ↗
+
+</td> </tr> </table>
 
 <br>
 
-## 03 / Computer Science Foundations
-
-| Area                 | Topics                                     |
-| :------------------- | :----------------------------------------- |
-| Software Development | Object-Oriented Programming, SDLC          |
-| Systems              | Operating Systems, Linux                   |
-| Networking           | Computer Networks, TCP/IP                  |
-| Security             | Information Security, Network Fundamentals |
-| Databases            | SQL, NoSQL, Database Management            |
-| Analysis & Design    | Systems Analysis, Object-Oriented Design   |
-
-<br>
-
-## 04 / Currently Learning
-
-I'm continuing to develop my knowledge in:
-
-* **Java** — Object-Oriented Programming and problem-solving.
-* **Data Structures & Algorithms** — Stacks, queues, linked lists, and algorithm analysis.
-* **Software Engineering** — Development principles and methodologies.
-* **Cloud Computing** — Cloud technologies and infrastructure.
-* **Software Project Management** — Planning and managing software projects.
-* **API Development** — Building and integrating backend services.
-
-<br>
-
-## 05 / Selected Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎫 Help Desk — Ticket Management System
-
-**React · TypeScript · Express · MongoDB**
-
-A full-stack support ticket management application featuring an admin dashboard, authentication, ticket tracking, and database integration.
-
-[Explore Project →](https://github.com/abeds01-code/Help-Desk-Final)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Agent & Automation
-
-**n8n · AI Agents · Webhooks**
-
-Automation workflows connecting AI agents with external services to simplify everyday tasks.
-
-[Explore Project →](https://github.com/abeds01-code/Ai-N8N-Final)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Node.js Backend
-
-**Node.js · Express · MongoDB**
-
-A backend development project exploring REST APIs, server-side programming, and database integration.
-
-[Explore Project →](https://github.com/abeds01-code/FinalNode)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚛️ React Application
-
-**React · JavaScript**
-
-A frontend application focused on interactive interfaces, component-based development, and API integration.
-
-[Explore Project →](https://github.com/abeds01-code/FinalReact)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 06 / My Direction
-
+02 / Technical Toolkit
 <div align="center">
 
-### Learn → Build → Improve → Innovate
+Languages
 
-I believe software development is more than writing code.
-
-It's about understanding problems, designing thoughtful solutions, and creating technology that delivers real value.
-
-My goal is to grow as a software developer, gain practical industry experience, and eventually build a technology venture of my own.
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### Let's Build Something Meaningful
-
-Open to learning opportunities, collaboration, and interesting software projects.
-
-<br>
-
-<a href="https://github.com/abeds01-code?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-View_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects">
-</a>
+<img src="https://skillicons.dev/icons?i=python,js,ts,cs&theme=dark" alt="Python, JavaScript, TypeScript, C sharp" />
 
 <br><br>
 
-<sub>Designed with simplicity, clarity, and continuous improvement in mind.</sub>
+Web development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark" alt="HTML, CSS, React, Node.js, Express" />
+
+<br><br>
+
+Data & tools
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,linux,postman&theme=dark" alt="MySQL, MongoDB, Git, GitHub, Linux, Postman" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/AI_Agents-Exploring-6366F1?style=flat-square" alt="AI agents" /> <img src="https://img.shields.io/badge/API_Integration-Projects-0F766E?style=flat-square" alt="API integration" />
+
+</div>
+
+<br>
+
+03 / Engineering Foundations
+Domain	Focus
+Programming	Object-oriented programming, problem-solving
+Systems	Operating systems, Linux fundamentals
+Networks & security	TCP/IP, ARP, ICMP, Wireshark, security fundamentals
+Data	Relational and document databases
+Software process	Systems analysis, SDLC concepts
+<br>
+
+04 / Currently Exploring
+Java · Data Structures & Algorithms · Software Engineering · Cloud Computing · Software Project Management · API Development
+
+<br>
+
+05 / Beyond the Code
+I want to grow into a developer who can take an idea from problem → design → implementation → real-world value.
+
+For me, learning software engineering is the foundation for a bigger ambition: building and launching a technology venture in the future.
+
+<div align="center">
+
+<br>
+
+LEARN   →   BUILD   →   LAUNCH
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:17314A,100:0B1020&height=4&section=footer" width="100%" alt="Divider" />
+
+<sub>Abed Sultan · Software Engineering · Always building, always learning.</sub>
 
 </div>
 
