@@ -136,7 +136,7 @@ LEARN   →   BUILD   →   LAUNCH
 
 <div align="center">
 
-<h2>07 / Let's Connect</h2>
+<h2>07 / 🌐 Connect With Me</h2>
 
 <p>
   Have an opportunity, an idea, or a project in mind?<br>
