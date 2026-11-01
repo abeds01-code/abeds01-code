@@ -130,7 +130,39 @@ LEARN   →   BUILD   →   LAUNCH
 <sub>Abed Sultan · Software Engineering · Always building, always learning.</sub>
 
 </div>
+<br>
 
+---
+
+<div align="center">
+
+<h2>07 / Let's Connect</h2>
+
+<p>
+  Have an opportunity, an idea, or a project in mind?<br>
+  I'm always open to meaningful conversations and new opportunities.
+</p>
+
+<br>
+
+<a href="mailto:abed.s.01@icloud.com">
+  <img
+    src="https://img.shields.io/badge/GET_IN_TOUCH-0D9488?style=for-the-badge&logo=maildotru&logoColor=white"
+    alt="Contact Me"
+  />
+</a>
+
+<br><br>
+
+<a href="mailto:abed.s.01@icloud.com">
+  <strong>abed.s.01@icloud.com</strong>
+</a>
+
+<br><br>
+
+<sub>Open to opportunities · Collaboration · Innovation</sub>
+
+</div>
 
 
 <!--
