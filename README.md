@@ -235,7 +235,21 @@ My goal is to grow as a software developer, gain practical experience, and event
 
 ---
 
-## 📬 06 / Let's Connect
+
+## 🌍 06 / Languages
+
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Arabic-0F766E?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Arabic" />
+&nbsp;
+<img src="https://img.shields.io/badge/Hebrew-2563EB?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Hebrew" />
+&nbsp;
+<img src="https://img.shields.io/badge/English-6366F1?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English" />
+
+</div>
+
+## 📬 07 / Let's Connect
 
 <div align="center">
 
