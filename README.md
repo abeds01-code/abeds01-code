@@ -28,7 +28,7 @@ My long-term ambition is to transform practical ideas into meaningful technology
 
 ---
 
-## 🚀 01 / Selected Work
+## 💼 01 / Selected Work
 
 *Projects where I turn knowledge into practical software.*
 
